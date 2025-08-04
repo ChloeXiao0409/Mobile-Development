@@ -103,8 +103,8 @@ npx expo login
 ### 1. Clone and Install Dependencies
 ```bash
 # Clone the repository
-git clone https://github.sydney.edu.au/COMP5216-2025-S2/Teaching-Materials-Internal.git
-cd Teaching-Materials-Internal/expo-starter
+git clone https://github.sydney.edu.au/COMP5216-2025-S2/COMP5216-2025-Learning-Materials.git
+cd COMP5216-2025-Learning-Materials/expo-starter
 
 # Install dependencies
 yarn install
