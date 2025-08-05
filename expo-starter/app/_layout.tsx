@@ -69,7 +69,7 @@ function RootLayoutNav() {
         <Stack.Screen
           name="modal"
           options={{
-            title: 'Tamagui + Expo',
+            title: 'Greeting',
             presentation: 'modal',
             animation: 'slide_from_right',
             gestureEnabled: true,
